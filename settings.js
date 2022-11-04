@@ -32,7 +32,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 global.vcardowner = ['+94775667940'] // owner number
 global.ownername = "Udula_Jithnuka" // owner name
 global.ytname = "" // yt chanel name
-global.socialm = "Insta-udula__jithnuka" // github or insta name
+global.socialm = "Insta-udula__jithnuka" // insta name
 global.location = "India, Mizoram, Aizawl" // location
 
 //bot body 
@@ -62,7 +62,7 @@ global.premium = ['+94775667940'] //ur premium numbers
 global.sessionName = 'session'
 global.antitags = false
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
-global.sp = '💠'
+global.sp = '.'
 global.mess = {
     success: 'Done ✅',
     admin: 'Only Admins can use it!😉',
